@@ -4,7 +4,7 @@ Release: %mkrel 1
 Summary: Metapackage for the MeeGo experience
 Group:Graphical desktop/Other
 License: Various
-URL: http://www.meego.com
+URL: https://www.meego.com
 BuildArch: noarch
 Requires: bisho
 Requires: chrome-meego-extension
